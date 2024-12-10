@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce8_namespace", "Lekce8_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce8", "Lekce8\Lekce8.csproj", "{FFA9EDCA-F15E-4212-B022-8007358D721D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce9.Workshop", "Lekce9.Workshop\Lekce9.Workshop.csproj", "{76F85D7A-F0D0-4B62-A786-7026C61BDFE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{FFA9EDCA-F15E-4212-B022-8007358D721D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFA9EDCA-F15E-4212-B022-8007358D721D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFA9EDCA-F15E-4212-B022-8007358D721D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F85D7A-F0D0-4B62-A786-7026C61BDFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F85D7A-F0D0-4B62-A786-7026C61BDFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F85D7A-F0D0-4B62-A786-7026C61BDFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F85D7A-F0D0-4B62-A786-7026C61BDFE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
