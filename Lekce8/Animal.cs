@@ -26,7 +26,9 @@
             _age = age;
         }
 
-        public Animal(string name, int age)
+        // public konstruktor v abstraktni tride nedava smysl
+        // protected muze stale byt volan z child konstruktoru
+        protected Animal(string name, int age)
         {
             Console.WriteLine("Animal constructor");
             _name = name;
