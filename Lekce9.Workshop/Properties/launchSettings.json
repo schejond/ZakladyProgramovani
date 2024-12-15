@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lekce9.Workshop": {
+      "commandName": "Project",
+      "commandLineArgs": "books.txt"
+    }
+  }
+}
