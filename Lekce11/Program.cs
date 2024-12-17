@@ -135,6 +135,8 @@ namespace Lekce11
             };
         }
 
+        // Ukazka volani https://www.weatherapi.com/api-explorer.aspx#current API
+        // pro vyzkouseni musime mit vlastni validni apiKey. Ten ziskate po bezplatne registraci
         private static async Task GetPublicApiDataAsync()
         {
             try
@@ -142,7 +144,7 @@ namespace Lekce11
                 using HttpClient client = new HttpClient();
 
                 // url adresa api vcetne parametru
-                const string apiKey = "136b4a36eecb4d3aabf205555241612";
+                const string apiKey = "API_KEY";
                 const string city = "Prague";
                 string url = $"http://api.weatherapi.com/v1/current.json?key={apiKey}&q={city}&aqi=no";
 
