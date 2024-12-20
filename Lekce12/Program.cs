@@ -63,6 +63,7 @@
 
         // Ukazka volani https://www.weatherapi.com/api-explorer.aspx#current API
         // pro vyzkouseni musime mit vlastni validni apiKey. Ten ziskate po bezplatne registraci
+        // bez validniho klice vrati server 403 Forbidden, vyjimka bude zpracovana v catch bloku a vypsana. Program tedy skonci i tak bez chyby
         private static async Task GetPublicApiDataAsync()
         {
             try
