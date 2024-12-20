@@ -148,7 +148,7 @@ namespace Lekce11
                 const string city = "Prague";
                 string url = $"http://api.weatherapi.com/v1/current.json?key={apiKey}&q={city}&aqi=no";
 
-                // zavolani GET meotdy API a získání odpovědi
+                // zavolani GET metody API a získání odpovědi
                 HttpResponseMessage response = await client.GetAsync(url);
                 response.EnsureSuccessStatusCode();
 
