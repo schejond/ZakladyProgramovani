@@ -27,7 +27,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lekce13", "Lekce13", "{6BE3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce13", "Lekce13\Lekce13.csproj", "{30867F0E-0741-487B-8EF8-3B8F800EAB19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce13Testy", "MyApplication.Tests\Lekce13Testy.csproj", "{A421B23A-0CB3-42F8-9470-83FF475F5C91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce13Testy", "Lekce13Testy\Lekce13Testy.csproj", "{A421B23A-0CB3-42F8-9470-83FF475F5C91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
