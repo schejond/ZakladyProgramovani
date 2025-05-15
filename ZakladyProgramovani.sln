@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce4", "Lekce4\Lekce4.csproj", "{65FE1415-2488-4178-973D-2C6313598B03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce04", "Lekce04\Lekce04.csproj", "{65FE1415-2488-4178-973D-2C6313598B03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce5", "Lekce5\Lekce5.csproj", "{8081A1D7-DD87-4854-9A9E-F5C208054933}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce05", "Lekce05\Lekce05.csproj", "{8081A1D7-DD87-4854-9A9E-F5C208054933}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce6", "Lekce6\Lekce6.csproj", "{143441F9-4BFB-4D36-9D5E-83CFF6F77DCC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce06", "Lekce06\Lekce06.csproj", "{143441F9-4BFB-4D36-9D5E-83CFF6F77DCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce7", "Lekce7\Lekce7.csproj", "{0022D6C0-64A1-4E8F-A770-FB2AA53A9ABF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce07", "Lekce07\Lekce07.csproj", "{0022D6C0-64A1-4E8F-A770-FB2AA53A9ABF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce8_namespace", "Lekce8_namespace\Lekce8_namespace.csproj", "{C7408811-9A30-4251-B8BC-DA50AA6B679C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce08_namespace", "Lekce08_namespace\Lekce08_namespace.csproj", "{C7408811-9A30-4251-B8BC-DA50AA6B679C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce8", "Lekce8\Lekce8.csproj", "{FFA9EDCA-F15E-4212-B022-8007358D721D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce08", "Lekce08\Lekce08.csproj", "{FFA9EDCA-F15E-4212-B022-8007358D721D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce9.Workshop", "Lekce9.Workshop\Lekce9.Workshop.csproj", "{76F85D7A-F0D0-4B62-A786-7026C61BDFE4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce09.Workshop", "Lekce09.Workshop\Lekce09.Workshop.csproj", "{76F85D7A-F0D0-4B62-A786-7026C61BDFE4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce10", "Lekce10\Lekce10.csproj", "{6126FA58-20BE-4492-B952-D58DD9FDFB55}"
 EndProject
