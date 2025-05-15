@@ -1,7 +1,7 @@
 ﻿using Lekce13;
 using Moq;
 
-namespace MyApplication.Tests
+namespace Lekce13Testy
 {
     public class CalculatorTests
     {

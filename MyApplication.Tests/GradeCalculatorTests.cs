@@ -1,6 +1,6 @@
 using Lekce13;
 
-namespace MyApplication.Tests
+namespace Lekce13Testy
 {
     public class GradeCalculatorTests
     {
